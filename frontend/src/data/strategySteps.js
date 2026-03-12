@@ -1,0 +1,58 @@
+export const strategySteps = [
+  {
+    id: 1,
+    number: '01',
+    label: 'IDENTIFY',
+    title: 'Pinpoint the Target',
+    subtitle: 'Intelligence Gathering',
+    description:
+      'Our AI-driven analysis engine scans market signals, competitor patterns, and consumer sentiment in real-time — surfacing opportunities invisible to the naked eye.',
+    metric: '10,000+',
+    metricLabel: 'data signals / second',
+    accent: '#00FFB2',
+    icon: '◎',
+    detail: 'Machine learning models trained on 50M+ data points to identify market gaps before they become obvious.',
+  },
+  {
+    id: 2,
+    number: '02',
+    label: 'AIM',
+    title: 'Lock On Precision',
+    subtitle: 'Strategic Alignment',
+    description:
+      'Translate raw intelligence into a razor-sharp strategy. Define your audience segments, calibrate messaging, and align every action to a measurable outcome.',
+    metric: '94%',
+    metricLabel: 'targeting accuracy',
+    accent: '#FF6B35',
+    icon: '⊕',
+    detail: 'Multi-variable optimization across 200+ parameters to ensure your message lands exactly where it matters.',
+  },
+  {
+    id: 3,
+    number: '03',
+    label: 'EXECUTE',
+    title: 'Fire With Confidence',
+    subtitle: 'Flawless Deployment',
+    description:
+      'Deploy campaigns with surgical precision. Every touchpoint is orchestrated, every conversion path is optimized, every dollar is accountable.',
+    metric: '3.2×',
+    metricLabel: 'avg. ROI uplift',
+    accent: '#7B61FF',
+    icon: '◈',
+    detail: 'End-to-end execution framework that eliminates variance and transforms strategy into measurable outcomes.',
+  },
+  {
+    id: 4,
+    number: '04',
+    label: 'EVOLVE',
+    title: 'Adapt & Dominate',
+    subtitle: 'Continuous Optimization',
+    description:
+      'The market never sleeps. Our adaptive feedback loop continuously refines your strategy — learning from every interaction, improving with every cycle.',
+    metric: '∞',
+    metricLabel: 'learning loops',
+    accent: '#FFD700',
+    icon: '◬',
+    detail: 'Closed-loop intelligence that compounds over time, making your competitive advantage self-reinforcing.',
+  },
+];
