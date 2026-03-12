@@ -1,3 +1,7 @@
+[Live Demo]([https://your-vercel-link.vercel.app](https://sniperthink-assignment-nine.vercel.app/))
+
+
+
 # SniperThink — Full Stack Hiring Assignment
 
 > Precision Strategy Platform — Interactive frontend + distributed file processing backend.
